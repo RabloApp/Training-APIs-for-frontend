@@ -1,0 +1,18 @@
+{
+  "name": "training-apis-for-frontend",
+  "version": "1.0.0",
+  "description": "This API is built to facilitate the frontend team's training process for new joinees, enabling them to practice API integration and understand how CRUD (Create, Read, Update, Delete) operations function. The API serves as a sandbox for testing and experimentation, allowing trainees to interact with an **Employee Management System**.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.13.0",
+    "nodemon": "^3.1.9"
+  }
+}
